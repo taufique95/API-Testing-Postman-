@@ -30,4 +30,5 @@
 - https://documenter.getpostman.com/view/26162718/2s93Y3vg2v
 
 # Newman Report Summary:
-- https://imgur.com/a/3PyrgcA
+![Newman1](https://user-images.githubusercontent.com/121681949/234540847-c2124342-e939-4b38-ad64-7b5a8756bcdb.JPG)
+![Newman2](https://user-images.githubusercontent.com/121681949/234540912-441b80ce-1ee2-4539-ae65-083feea73b6f.JPG)
